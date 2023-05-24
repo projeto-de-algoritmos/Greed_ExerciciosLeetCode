@@ -13,14 +13,14 @@
 Este projeto se trata da resolução de 4 exercícios abordando o tema de Algoritmos Ambiciosos (Greed). Os exercícios foram retirados do site [LeetCode](https://leetcode.com/tag/greedy/).
 
 ### Exercício 1
-**Nome:** <br>
-**Código:** [ACESSO]()<br>
-**Página LeetCode:** [ACESSO]()<br>
+**Nome:** Redução de Pratos<br>
+**Código:** [ACESSO](exercicios/reducaoDePratos/)<br>
+**Página LeetCode:** [ACESSO](https://leetcode.com/problems/reducing-dishes/)<br>
 
 ### Exercício 2
-**Nome:** <br>
-**Código:** [ACESSO]()<br>
-**Página LeetCode:** [ACESSO]()<br>
+**Nome:** Número Máximo de Tarefas que Você Pode Atribuir<br>
+**Código:** [ACESSO](exercicios/numMaxTarefas/)<br>
+**Página LeetCode:** [ACESSO](https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/)<br>
 
 ### Exercício 3
 **Nome:** <br>
@@ -35,8 +35,8 @@ Este projeto se trata da resolução de 4 exercícios abordando o tema de Algori
 
 ## Screenshots
 
-![Exercicio1]()
-![Exercicio2]()
+![Exercicio1](assets/ex1.png)
+![Exercicio2](assets/ex2.png)
 ![Exercicio3]()
 ![Exercicio4]()
 
