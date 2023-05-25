@@ -24,21 +24,21 @@ Este projeto se trata da resolução de 4 exercícios abordando o tema de Algori
 
 ### Exercício 3
 **Nome:** <br>
-**Código:** [ACESSO]()<br>
-**Página LeetCode:** [ACESSO]()<br>
+**Código:** [ACESSO](exercicios/numMinimoDeFlechasParaEstourarBaloes/)<br>
+**Página LeetCode:** [ACESSO](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/)<br>
 
 ### Exercício 4
 **Nome:** <br>
-**Código:** [ACESSO]()<br>
-**Página LeetCode:** [ACESSO]()<br>
+**Código:** [ACESSO](exercicios/particionarArrayEmIntervalosDisjuntos/)<br>
+**Página LeetCode:** [ACESSO](https://leetcode.com/problems/partition-array-into-disjoint-intervals/)<br>
 
 
 ## Screenshots
 
 ![Exercicio1](assets/ex1.png)
 ![Exercicio2](assets/ex2.png)
-![Exercicio3]()
-![Exercicio4]()
+![Exercicio3](assets/array.png)
+![Exercicio4](assets/ballon.png)
 
 
 ## Instalação 
