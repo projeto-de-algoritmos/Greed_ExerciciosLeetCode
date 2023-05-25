@@ -71,6 +71,8 @@ Repita o processo para cada um dos 4 exercícios resolvidos.
 
 ## Outros
 
-**Vídeo da Apresentação (GitHub):** [ACESSO]()
+**Vídeo da Apresentação (GitHub):** [ACESSO](videoApresentacao.mp4)
 
-**Vídeo da Apresentação (Youtube):** [ACESSO]()
+**Vídeo da Apresentação (Youtube):** [ACESSO](https://youtu.be/uE3hpz835Fs)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uE3hpz835Fs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
