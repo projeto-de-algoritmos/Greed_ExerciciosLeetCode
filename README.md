@@ -23,12 +23,12 @@ Este projeto se trata da resolução de 4 exercícios abordando o tema de Algori
 **Página LeetCode:** [ACESSO](https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/)<br>
 
 ### Exercício 3
-**Nome:** <br>
+**Nome:** Número Mínimo de Flechas para Estourar Balões <br>
 **Código:** [ACESSO](exercicios/numMinimoDeFlechasParaEstourarBaloes/)<br>
 **Página LeetCode:** [ACESSO](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/)<br>
 
 ### Exercício 4
-**Nome:** <br>
+**Nome:** Particionar Array em Intervalos Disjuntos <br>
 **Código:** [ACESSO](exercicios/particionarArrayEmIntervalosDisjuntos/)<br>
 **Página LeetCode:** [ACESSO](https://leetcode.com/problems/partition-array-into-disjoint-intervals/)<br>
 
