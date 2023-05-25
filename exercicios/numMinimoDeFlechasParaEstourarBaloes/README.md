@@ -1,5 +1,7 @@
 # [Número Mínimo de Flechas para Estourar Balões](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/description/)
 
+**Nível Médio**
+
 Existem alguns balões esféricos presos em uma parede plana que representa o plano XY. Os balões são representados como uma matriz de inteiros 2D chamada `points`, onde `points[i] = [xstart, xend]` indica um balão cujo diâmetro horizontal se estende entre `xstart` e `xend`. Você não sabe as coordenadas exatas de y dos balões.
 
 Setas podem ser disparadas diretamente verticalmente (na direção positiva de y) de diferentes pontos ao longo do eixo x. Um balão com `xstart` e `xend` é estourado por uma flecha disparada em `x` se `xstart <= x <= xend`. Não há limite para o número de flechas que podem ser disparadas. Uma flecha disparada continua a subir infinitamente, estourando todos os balões em seu caminho.

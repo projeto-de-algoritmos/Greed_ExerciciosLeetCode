@@ -24,5 +24,5 @@ cada balão, verifica se a coordenada de início é maior que o valor da
 última coordenada de fim registrada. Se for, incrementa o contador de 
 flechas e atualiza o valor da coordenada de fim. No final, retorna o contador 
 de flechas. A abordagem greedy é adequada aqui porque a ordem dos balões não 
-interfere na solução ótima.
+interfere na solução ótima. (Interval Sheduling)
 """
